@@ -940,77 +940,79 @@
             </tr>
         </tbody>
     </table>
-    <!-- HTMLS & CSS -->
-    <hr />
-    <!-- Summary Begin -->
-    <details>
-        <summary> Click me for Details
-            <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
-                <tbody>
-                    <tr>
-                        <th align="center" width="50%">HTMLS & CSS - January 2021: <br />
-                            26.01.2020 - 07.04.2021</th>
-                        <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 23/12/2020 </th>
-                        <th>
-                            <p><a title="HTMLS & CSS" href="https://softuni.bg/certificates/details/101567/984b5089"
-                                    target="_blank">Certificate</a></p>
-                        </th>
-                    </tr>
-                </tbody>
-            </table>
-        </summary>
-        <!-- Summary End -->
-        <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
-            <tbody>
-                <tr>
-                    <th align="center" width="50%">HTMLS & CSS - January 2021: <br />
-                        26.01.2020 - 07.04.2021</th>
-                    <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 23/12/2020 </th>
-                    <th>
-                        <p><a title="HTMLS & CSS" href="https://softuni.bg/certificates/details/101567/984b5089"
-                                target="_blank">Certificate</a></p>
-                    </th>
-                </tr>
-                <!-- Course Body -->
-                <tr>
-                    <td width="50%">
-                        <p><a title="HTML Structure" target="_blank">HTML Structure</a>
-                        </p>
-                </tr>
-                <tr>
-                    <td width="50%">
-                        <p><a title="CSS & Typography" target="_blank">CSS & Typography</a></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="50%">
-                        <p><a title="CSS Box Model" target="_blank">CSS Box Model</a></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="50%">
-                        <p><a title="Position & Float" target="_blank">Position & Float</a></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="50%">
-                        <p><a title="Flexbox" target="_blank">Flexbox</a></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="50%">
-                        <p><a title="Media Queries" target="_blank">Media Queries</a></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="50%">
-                        <p><a title="Design to Code - Demo Project" target="_blank">Design to Code - Demo Project</a>
-                        </p>
-                    </td>
-                </tr>
+</details>
+ <!-- HTMLS & CSS -->
+ <hr />
+ <!-- Summary Begin -->
+ <details>
+     <summary> Click me for Details
+         <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+             <tbody>
+                 <tr>
+                     <th align="center" width="50%">HTMLS & CSS - January 2021: <br />
+                         26.01.2020 - 07.04.2021</th>
+                     <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 23/12/2020 </th>
+                     <th>
+                         <p><a title="HTMLS & CSS" href="https://softuni.bg/certificates/details/101567/984b5089"
+                                 target="_blank">Certificate</a></p>
+                     </th>
+                 </tr>
+             </tbody>
+         </table>
+     </summary>
+     <!-- Summary End -->
+     <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+         <tbody>
+             <tr>
+                 <th align="center" width="50%">HTMLS & CSS - January 2021: <br />
+                     26.01.2020 - 07.04.2021</th>
+                 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 23/12/2020 </th>
+                 <th>
+                     <p><a title="HTMLS & CSS" href="https://softuni.bg/certificates/details/101567/984b5089"
+                             target="_blank">Certificate</a></p>
+                 </th>
+             </tr>
+             <!-- Course Body -->
+             <tr>
+                 <td width="50%">
+                     <p><a title="HTML Structure" target="_blank">HTML Structure</a>
+                     </p>
+             </tr>
+             <tr>
+                 <td width="50%">
+                     <p><a title="CSS & Typography" target="_blank">CSS & Typography</a></p>
+                 </td>
+             </tr>
+             <tr>
+                 <td width="50%">
+                     <p><a title="CSS Box Model" target="_blank">CSS Box Model</a></p>
+                 </td>
+             </tr>
+             <tr>
+                 <td width="50%">
+                     <p><a title="Position & Float" target="_blank">Position & Float</a></p>
+                 </td>
+             </tr>
+             <tr>
+                 <td width="50%">
+                     <p><a title="Flexbox" target="_blank">Flexbox</a></p>
+                 </td>
+             </tr>
+             <tr>
+                 <td width="50%">
+                     <p><a title="Media Queries" target="_blank">Media Queries</a></p>
+                 </td>
+             </tr>
+             <tr>
+                 <td width="50%">
+                     <p><a title="Design to Code - Demo Project" target="_blank">Design to Code - Demo Project</a>
+                     </p>
+                 </td>
+             </tr>
 
-            </tbody>
-        </table>
-    </details>
-    <hr />
-    <!-- HTML & CSS End -->
+         </tbody>
+     </table>
+ </details>
+ <hr />
+ <!-- HTML & CSS End -->
+   
