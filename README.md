@@ -35,9 +35,9 @@
                 <tr>
                     <th align="center" width="50%">C# Web & ASP.NET Core - May 2021: <br />
                         18.05.2021 - 20.08.2021</th>
-                    <th width="40%">Grade:<br /> Issue Date: </th>
+                    <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: </th>
                     <th>
-                        <p><a title="C# Web & ASP.NET Core" target="_blank">Certificate</a></p>
+                        <p><a href="https://softuni.bg/certificates/details/109396/2043f8d5" title="C# Web & ASP.NET Core" target="_blank">Certificate</a></p>
                     </th>
                 </tr>
             </tbody>
